@@ -1,0 +1,1 @@
+DATA_FOLDER_PATH = '/opt/airflow/datadrive'
